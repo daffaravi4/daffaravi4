@@ -1,47 +1,202 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=150&text=Hi,%20I'm%20Satria%20Bahari&fontSize=50&fontColor=fdd935&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20Mobile%20%20Developer&descSize=30&descAlignY=85&section=header" /> 
- 
-I'm Satria Bahari, a student majoring in Information Systems at the University of Jambi. I have a strong interest in frontend development. With a solid foundation in JavaScript and TypeScript, as well as a comprehensive understanding of various frontend libraries and frameworks, I have navigated the ever-evolving landscape of web development with enthusiasm and dedication. 
- 
-I focus on creating web applications that not only provide precise experiences but are also user-friendly. My specialization includes JavaScript and TypeScript, along with frameworks such as React, Vite, and Next.js. As a quick learner and adaptive thinker, I thrive in a dynamic environment where innovation is a driving force. My collaborative nature allows me to seamlessly integrate with teams, contributing not only to my technical skills but also embodying a humble attitude that values input from every team member.
+<div align="center">
 
-[![Mail Badge](https://img.shields.io/badge/-satriaabaharii@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:satriaabaharii@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@satriabaharii__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/satriabaharii_) 
-[![Linkedin Badge](https://img.shields.io/badge/-satriabahari-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satria-bahari/) 
-[![Tiktok](https://img.shields.io/badge/-satriaabaharii-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@satriaabaharii/)
-[![](https://komarev.com/ghpvc/?username=satriabahari&color=blue&label=Profile%20Views)](https://github.com/satriabahari/satriabahari)
-[![](https://img.shields.io/github/followers/satriabahari?label=GitHub%20Followers)](https://github.com/satriabahari)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F172A,70:1E3A8A,100:2563EB&height=220&section=header&text=DAFFA%20RAVI%20FERDIANSYAH&fontSize=35&fontColor=FFFFFF&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20INFORMATICS%20STUDENT&descAlignY=62&descSize=16&descColor=BFDBFE" width="100%"/>
 
-### Core Tech Stacks
-![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind,kotlin)
+<br>
 
-### Other Tech Stacks
+<img src="https://cdn.simpleicons.org/github/3B82F6" width="32">
 
-![My Skills](https://skillicons.dev/icons?perline=9&i=html,css,bootstrap,js,vite,astro,nodejs,express,php,laravel,golang,redux,prisma,mysql,postgres,firebase,supabase)
+# Welcome to my GitHub
+
+**Building modern websites, web applications, and exploring AI.**
+
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/aboutdotme/3B82F6" width="25">
+  About Me
+</h2>
+
+I'm an Informatics Student who enjoys creating modern, responsive,
+and user-friendly digital experiences.
+
+### Areas of Interest
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+
+<img src="https://cdn.simpleicons.org/googlechrome/3B82F6" width="35">
+
+**Web Development**
+
+</td>
+
+<td align="center" width="200">
+
+<img src="https://cdn.simpleicons.org/react/3B82F6" width="35">
+
+**Full Stack Development**
+
+</td>
+
+<td align="center" width="200">
+
+<img src="https://cdn.simpleicons.org/robotframework/3B82F6" width="35">
+
+**Artificial Intelligence**
+
+</td>
+
+<td align="center" width="200">
+
+<img src="https://cdn.simpleicons.org/opencv/3B82F6" width="35">
+
+**Computer Vision**
+
+</td>
+</tr>
+</table>
+
+I'm focused on improving my development skills and building projects
+that combine **clean design, modern technologies, and useful functionality.**
+
+---
+
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/codeforces/3B82F6" width="25">
+  Tech Stack
+</h2>
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,firebase,supabase" />
+
+### Programming & AI
+
+<img src="https://skillicons.dev/icons?i=python,java,opencv,tensorflow" />
 
 ### Tools
 
-![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,github,notion)
-<!--
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 
-### Others
+</div>
 
-![My Skills](https://skillicons.dev/icons?i=npm,yarn,bun,netlify,vercel,stackoverflow)
--->
+---
 
-### Statistics
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/githubactions/3B82F6" width="25">
+  Featured Project
+</h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=satriabahari&theme=maroongold&show_icons=true&)
+<div align="center">
 
-<!---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satriabahari&theme=maroongold&card_width=470)
+## Personal Portfolio
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=satriabahari&theme=maroongold)](https://git.io/streak-stats)
+</div>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=satriabahari&theme=maroongold" alt="GitHub Streak" /></a>
---->
+A modern and responsive personal portfolio built to showcase my
+skills, certificates, projects, and development journey.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&card_width=495&langs_count=7&layout=compact&theme=maroongold)
+### Built With
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@satriabahari&langs_count=7&layout=compact&theme=maroongold)
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=100&section=footer" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js" />
+
+</div>
+
+### Highlights
+
+- Modern dark UI
+- Responsive design
+- Smooth animations
+- Interactive components
+- Developer-focused layout
+- Modern web technologies
+
+---
+
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/github/3B82F6" width="25">
+  GitHub Stats
+</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=daffaravi4&show_icons=true&theme=github_dark&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=94A3B8&bg_color=0F172A" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaravi4&layout=compact&theme=github_dark&hide_border=true&title_color=3B82F6&text_color=94A3B8&bg_color=0F172A" />
+
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/academia/3B82F6" width="25">
+  Currently Learning
+</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,python" />
+
+<br><br>
+
+`Backend Development` · `REST API` · `Artificial Intelligence` · `Computer Vision`
+
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/gnometerminal/3B82F6" width="25">
+  Development Philosophy
+</h2>
+
+<div align="center">
+
+### Build → Learn → Improve → Repeat
+
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/linktree/3B82F6" width="25">
+  Let's Connect
+</h2>
+
+<div align="center">
+
+<a href="https://github.com/daffaravi4">
+<img src="https://cdn.simpleicons.org/github/3B82F6" width="40">
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="#">
+<img src="https://cdn.simpleicons.org/linkedin/3B82F6" width="40">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Thanks for visiting my profile.**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:2563EB&height=120&section=footer" width="100%"/>
