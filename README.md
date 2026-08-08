@@ -195,8 +195,7 @@ skills, certificates, projects, and development journey.
 
 <div align="center">
 
-**Thanks for visiting my profile.**
+<img src="./github-footer.png" width="100%"/>
 
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:2563EB&height=120&section=footer" width="100%"/>
