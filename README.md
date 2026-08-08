@@ -1,43 +1,76 @@
 <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F172A,70:1E3A8A,100:2563EB&height=220&section=header&text=DAFFA%20RAVI%20FERDIANSYAH&fontSize=35&fontColor=FFFFFF&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20INFORMATICS%20STUDENT&descAlignY=60&descSize=16&descColor=BFDBFE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F172A,70:1E3A8A,100:2563EB&height=220&section=header&text=DAFFA%20RAVI%20FERDIANSYAH&fontSize=35&fontColor=FFFFFF&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20INFORMATICS%20STUDENT&descAlignY=62&descSize=16&descColor=BFDBFE" width="100%"/>
 
 <br>
 
-### 👋 Welcome to my GitHub
+<img src="https://cdn.simpleicons.org/github/3B82F6" width="32">
+
+# Welcome to my GitHub
 
 **Building modern websites, web applications, and exploring AI.**
 
 </div>
 
-<div align="center">
+---
 
-## 🚀 About Me
-
-</div>
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/aboutdotme/3B82F6" width="25">
+  About Me
+</h2>
 
 I'm an Informatics Student who enjoys creating modern, responsive,
 and user-friendly digital experiences.
 
-### 💻 What I'm interested in
+### Areas of Interest
 
-- 🌐 Web Development
-- ⚡ Full Stack Development
-- 🤖 Artificial Intelligence
-- 👁️ Computer Vision
-- 🎨 Modern UI/UX
+<table align="center">
+<tr>
+<td align="center" width="200">
 
-### 🌱 Currently
+<img src="https://cdn.simpleicons.org/googlechrome/3B82F6" width="35">
+
+**Web Development**
+
+</td>
+
+<td align="center" width="200">
+
+<img src="https://cdn.simpleicons.org/react/3B82F6" width="35">
+
+**Full Stack Development**
+
+</td>
+
+<td align="center" width="200">
+
+<img src="https://cdn.simpleicons.org/robotframework/3B82F6" width="35">
+
+**Artificial Intelligence**
+
+</td>
+
+<td align="center" width="200">
+
+<img src="https://cdn.simpleicons.org/opencv/3B82F6" width="35">
+
+**Computer Vision**
+
+</td>
+</tr>
+</table>
 
 I'm focused on improving my development skills and building projects
 that combine **clean design, modern technologies, and useful functionality.**
+
 ---
 
-<div align="center">
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/codeforces/3B82F6" width="25">
+  Tech Stack
+</h2>
 
-## 🛠️ Tech Stack
+<div align="center">
 
 ### Frontend
 
@@ -59,82 +92,111 @@ that combine **clean design, modern technologies, and useful functionality.**
 
 ---
 
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/githubactions/3B82F6" width="25">
+  Featured Project
+</h2>
+
 <div align="center">
 
-## 🚀 Featured Project
-
-### 💻 Personal Portfolio
+## Personal Portfolio
 
 </div>
 
-A modern and responsive personal portfolio built to showcase my skills,
-projects, certificates, and development journey.
+A modern and responsive personal portfolio built to showcase my
+skills, certificates, projects, and development journey.
 
-**Built with:**
-
-`Next.js` · `React` · `Tailwind CSS` · `JavaScript`
-
-### ✨ Highlights
-
-- 🎨 Modern dark UI
-- 📱 Responsive design
-- ⚡ Smooth animations
-- 🧩 Interactive components
-- 💻 Developer-focused layout
-- 🚀 Built with modern web technologies
-
----
+### Built With
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=daffaravi4&show_icons=true&theme=github_dark&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8&bg_color=0f172a" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaravi4&layout=compact&theme=github_dark&hide_border=true&title_color=3b82f6&text_color=94a3b8&bg_color=0f172a" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js" />
 
 </div>
 
+### Highlights
+
+- Modern dark UI
+- Responsive design
+- Smooth animations
+- Interactive components
+- Developer-focused layout
+- Modern web technologies
+
 ---
+
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/github/3B82F6" width="25">
+  GitHub Stats
+</h2>
 
 <div align="center">
 
-## 🌱 Currently Learning
+<img src="https://github-readme-stats.vercel.app/api?username=daffaravi4&show_icons=true&theme=github_dark&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=94A3B8&bg_color=0F172A" />
 
-`Next.js` · `React` · `Backend Development` · `REST API` · `AI` · `Computer Vision`
+<br><br>
 
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Development Philosophy
-
-### `Build → Learn → Improve → Repeat`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaravi4&layout=compact&theme=github_dark&hide_border=true&title_color=3B82F6&text_color=94A3B8&bg_color=0F172A" />
 
 </div>
 
 ---
 
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/academia/3B82F6" width="25">
+  Currently Learning
+</h2>
+
 <div align="center">
 
-## 📫 Let's Connect
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,python" />
 
-<p>
-  <b>GitHub</b> · <b>LinkedIn</b> · <b>Email</b>
-</p>
+<br><br>
+
+`Backend Development` · `REST API` · `Artificial Intelligence` · `Computer Vision`
 
 </div>
 
 ---
 
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/gnometerminal/3B82F6" width="25">
+  Development Philosophy
+</h2>
+
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:2563eb&height=120&section=footer" />
+### Build → Learn → Improve → Repeat
 
 </div>
+
+---
+
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/linktree/3B82F6" width="25">
+  Let's Connect
+</h2>
+
+<div align="center">
+
+<a href="https://github.com/daffaravi4">
+<img src="https://cdn.simpleicons.org/github/3B82F6" width="40">
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="#">
+<img src="https://cdn.simpleicons.org/linkedin/3B82F6" width="40">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Thanks for visiting my profile.**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:2563EB&height=120&section=footer" width="100%"/>
