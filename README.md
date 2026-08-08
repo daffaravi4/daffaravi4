@@ -193,9 +193,13 @@ Backend Development · REST API · Artificial Intelligence · Computer Vision
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="#">
+<a href="LINKEDIN_KAMU">
   <img src="https://cdn.simpleicons.org/linkedin/3B82F6" width="40">
 </a>
+
+<br><br>
+
+<b>Let's build something great together.</b>
 
 </div>
 
