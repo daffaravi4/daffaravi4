@@ -181,7 +181,7 @@ Backend Development · REST API · Artificial Intelligence · Computer Vision
 ---
 
 <h2 align="center">
-  <img src="https://cdn.simpleicons.org/linktree/3B82F6" width="24">
+  <img src="https://img.icons8.com/?size=100&id=11165&format=png&color=3B82F6" width="24">
   Let's Connect
 </h2>
 
