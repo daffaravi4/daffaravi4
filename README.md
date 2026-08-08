@@ -31,6 +31,8 @@ and user-friendly digital experiences.
 
 <img src="https://cdn.simpleicons.org/googlechrome/3B82F6" width="35">
 
+<br>
+
 <b>Web Development</b>
 
 </td>
@@ -38,6 +40,8 @@ and user-friendly digital experiences.
 <td align="center" width="200">
 
 <img src="https://cdn.simpleicons.org/react/3B82F6" width="35">
+
+<br>
 
 <b>Full Stack Development</b>
 
@@ -47,6 +51,8 @@ and user-friendly digital experiences.
 
 <img src="https://cdn.simpleicons.org/robotframework/3B82F6" width="35">
 
+<br>
+
 <b>Artificial Intelligence</b>
 
 </td>
@@ -54,6 +60,8 @@ and user-friendly digital experiences.
 <td align="center" width="200">
 
 <img src="https://cdn.simpleicons.org/opencv/3B82F6" width="35">
+
+<br>
 
 <b>Computer Vision</b>
 
@@ -109,14 +117,10 @@ that combine **clean design, modern technologies, and useful functionality.**
 
 ## Personal Portfolio
 
-</div>
-
 A modern and responsive personal portfolio built to showcase my
 skills, certificates, projects, and development journey.
 
-### Built With
-
-<div align="center">
+<br>
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js" />
 
@@ -135,16 +139,12 @@ skills, certificates, projects, and development journey.
 
 <h2 align="center">
   <img src="https://cdn.simpleicons.org/github/3B82F6" width="24">
-  GitHub Stats
+  GitHub Activity
 </h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=daffaravi4&show_icons=true&theme=github_dark&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=94A3B8&bg_color=0F172A" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaravi4&layout=compact&theme=github_dark&hide_border=true&title_color=3B82F6&text_color=94A3B8&bg_color=0F172A" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daffaravi4&bg_color=0F172A&color=3B82F6&line=2563EB&point=60A5FA&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -188,13 +188,13 @@ Backend Development · REST API · Artificial Intelligence · Computer Vision
 <div align="center">
 
 <a href="https://github.com/daffaravi4">
-<img src="https://cdn.simpleicons.org/github/3B82F6" width="40">
+  <img src="https://cdn.simpleicons.org/github/3B82F6" width="40">
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="#">
-<img src="https://cdn.simpleicons.org/linkedin/3B82F6" width="40">
+  <img src="https://cdn.simpleicons.org/linkedin/3B82F6" width="40">
 </a>
 
 </div>
