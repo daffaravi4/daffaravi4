@@ -1,16 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm Daffa Ravi Ferdiansyah
+<div align="center">
 
-### 💻 Full Stack Developer | Informatics Student
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F172A,70:1E3A8A,100:2563EB&height=220&section=header&text=DAFFA%20RAVI%20FERDIANSYAH&fontSize=35&fontColor=FFFFFF&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20INFORMATICS%20STUDENT&descAlignY=60&descSize=16&descColor=BFDBFE" width="100%"/>
 
-<p>
-  Building modern websites, web applications, and exploring AI.
-</p>
+<br>
+
+### 👋 Welcome to my GitHub
+
+**Building modern websites, web applications, and exploring AI.**
 
 </div>
-
----
 
 <div align="center">
 
@@ -18,10 +18,10 @@
 
 </div>
 
-I'm an Informatics Student who enjoys creating modern, responsive, and
-user-friendly digital experiences.
+I'm an Informatics Student who enjoys creating modern, responsive,
+and user-friendly digital experiences.
 
-I'm interested in:
+### 💻 What I'm interested in
 
 - 🌐 Web Development
 - ⚡ Full Stack Development
@@ -29,9 +29,10 @@ I'm interested in:
 - 👁️ Computer Vision
 - 🎨 Modern UI/UX
 
-Currently, I'm focused on improving my development skills and building
-projects that combine clean design with useful functionality.
+### 🌱 Currently
 
+I'm focused on improving my development skills and building projects
+that combine **clean design, modern technologies, and useful functionality.**
 ---
 
 <div align="center">
