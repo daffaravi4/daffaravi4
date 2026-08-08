@@ -188,13 +188,7 @@ Backend Development · REST API · Artificial Intelligence · Computer Vision
 <div align="center">
 
 <a href="https://github.com/daffaravi4">
-  <img src="https://cdn.simpleicons.org/github/3B82F6" width="40">
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="LINKEDIN_KAMU">
-  <img src="https://cdn.simpleicons.org/linkedin/3B82F6" width="40">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=3B82F6" />
 </a>
 
 <br><br>
