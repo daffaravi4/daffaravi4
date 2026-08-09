@@ -18,7 +18,7 @@
   </a>
 
   <a href="https://www.tiktok.com/@daffaaa_rv_">
-    <img src="https://img.shields.io/badge/TikTok-111827?style=flat-square&logo=tiktok&logoColor=FFFFFF" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=FFFFFF" alt="TikTok" />
   </a>
 
 </p>
@@ -109,7 +109,6 @@ I enjoy learning by building real projects, experimenting with new technologies,
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
   <img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
 
 </p>
@@ -170,25 +169,21 @@ I enjoy learning by building real projects, experimenting with new technologies,
 <p align="center">
 
   <img src="https://cdn.simpleicons.org/academia/58A6FF" width="28" />
-
   <b> Learn</b>
 
   &nbsp;&nbsp;→&nbsp;&nbsp;
 
   <img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" />
-
   <b> Build</b>
 
   &nbsp;&nbsp;→&nbsp;&nbsp;
 
   <img src="https://cdn.simpleicons.org/python/3776AB" width="28" />
-
   <b> Experiment</b>
 
   &nbsp;&nbsp;→&nbsp;&nbsp;
 
   <img src="https://cdn.simpleicons.org/rocket/FF6B35" width="28" />
-
   <b> Improve</b>
 
 </p>
@@ -234,6 +229,34 @@ I enjoy learning by building real projects, experimenting with new technologies,
     alt="Daffa Ravi GitHub Streak"
     width="100%"
   />
+
+</p>
+
+---
+
+## Contribution Game
+
+<p align="center">
+
+  <picture>
+
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph-dark.svg"
+      alt="Galaga contribution graph"
+      width="100%"
+    />
+
+  </picture>
 
 </p>
 
@@ -292,8 +315,8 @@ I enjoy learning by building real projects, experimenting with new technologies,
 
   <sub>Informatics Student · Developer · Lifelong Learner</sub>
 
-</p>
+  <br /><br />
 
-<p align="center">
   <i>Building ideas into digital experiences.</i>
+
 </p>
