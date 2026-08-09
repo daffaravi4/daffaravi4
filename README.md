@@ -1,212 +1,57 @@
-<div align="center">
+# Hi, I'm Daffa Ravi Ferdiansyah
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,40:181818,70:2F2F2F,100:646464&height=220&section=header&text=DAFFA%20RAVI%20FERDIANSYAH&fontSize=35&fontColor=FFFFFF&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20INFORMATICS%20STUDENT&descAlignY=62&descSize=16&descColor=D4D4D4&font=Space%20Grotesk" width="100%"/>
+### Full Stack Developer | Informatics Student
 
-<br>
-
-<img src="https://cdn.simpleicons.org/github/646464" width="30">
-
-# Welcome to my GitHub
-
-**Building modern websites, web applications, and exploring AI.**
-
-</div>
+I'm an Informatics student passionate about building modern, scalable, and interactive digital experiences.
 
 ---
 
-<h2 align="center">
-  <img src="https://cdn.simpleicons.org/aboutdotme/646464" width="24">
-  About Me
-</h2>
-
-I'm an Informatics Student who enjoys creating modern, responsive,
-and user-friendly digital experiences.
-
-### Areas of Interest
-
-<table align="center">
-<tr>
-
-<td align="center" width="200">
-
-<img src="https://cdn.simpleicons.org/googlechrome/646464" width="35">
-
-<br>
-
-<b>Web Development</b>
-
-</td>
-
-<td align="center" width="200">
-
-<img src="https://cdn.simpleicons.org/react/646464" width="35">
-
-<br>
-
-<b>Full Stack Development</b>
-
-</td>
-
-<td align="center" width="200">
-
-<img src="https://cdn.simpleicons.org/robotframework/646464" width="35">
-
-<br>
-
-<b>Artificial Intelligence</b>
-
-</td>
-
-<td align="center" width="200">
-
-<img src="https://cdn.simpleicons.org/opencv/646464" width="35">
-
-<br>
-
-<b>Computer Vision</b>
-
-</td>
-
-</tr>
-</table>
-
-I'm focused on improving my development skills and building projects
-that combine **clean design, modern technologies, and useful functionality.**
-
----
-
-<h2 align="center">
-  <img src="https://cdn.simpleicons.org/codeforces/646464" width="24">
-  Tech Stack
-</h2>
-
-<div align="center">
+## Tech Stack
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-
-<br><br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,firebase,supabase" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<br><br>
+### AI & Computer Vision
 
-### Programming & AI
-
-<img src="https://skillicons.dev/icons?i=python,java,opencv,tensorflow" />
-
-<br><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-
-</div>
-
----
-
-<h2 align="center">
-  <img src="https://cdn.simpleicons.org/githubactions/646464" width="24">
-  Featured Project
-</h2>
-
-<div align="center">
-
-## Personal Portfolio
-
-A modern and responsive personal portfolio built to showcase my
-skills, certificates, projects, and development journey.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js" />
-
-</div>
-
-### Highlights
-
-- Modern dark UI
-- Responsive design
-- Smooth animations
-- Interactive components
-- Developer-focused layout
-- Modern web technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-<h2 align="center">
-  <img src="https://cdn.simpleicons.org/github/646464" width="24">
-  GitHub Activity
-</h2>
+## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daffaravi4&bg_color=09090B&color=8A8A8A&line=646464&point=D4D4D4&area=true&hide_border=true" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af&icon_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af" height="170"/>
+</p>
 
 ---
 
-<h2 align="center">
-  <img src="https://cdn.simpleicons.org/academia/646464" width="24">
-  Currently Learning
-</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,python" />
-
-<br><br>
-
-Backend Development · REST API · Artificial Intelligence · Computer Vision
-
-</div>
-
----
-
-<h2 align="center">
-  <img src="https://cdn.simpleicons.org/gnometerminal/646464" width="24">
-  Development Philosophy
-</h2>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Build%20%E2%86%92%20Learn%20%E2%86%92%20Improve%20%E2%86%92%20Repeat&fontSize=22&fontColor=646464&fontAlignY=55&font=Space%20Grotesk" width="100%"/>
-
-</div>
-
----
-
-<h2 align="center">
-  <img src="https://img.icons8.com/?size=100&id=11165&format=png&color=646464" width="24">
-  Let's Connect
-</h2>
-
-<div align="center">
-
-<a href="https://github.com/daffaravi4">
-  <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=646464" />
-</a>
-
-<br><br>
-
-<b>Let's build something great together.</b>
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile.
-
-**Keep building. Keep learning. Keep improving.**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=DAFFA%20RAVI%20FERDIANSYAH&fontSize=18&fontColor=8A8A8A&fontAlignY=55&font=Space%20Grotesk" width="100%"/>
-
-</div>
+<p align="center">
+  <b>Building digital experiences, one line of code at a time.</b>
+</p>
