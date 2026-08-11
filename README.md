@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Railway-111827?style=for-the-badge&logo=railway&logoColor=FFFFFF" alt="Railway" />
 </p>
 
-### Minecraft Server Development
+### coming soon
 
 <p align="center">
   <img src="./assets/minecraft-server-badge.svg" alt="Minecraft Server Administration" />
