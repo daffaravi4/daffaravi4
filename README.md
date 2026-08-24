@@ -1,5 +1,15 @@
-# 💫 About Me:
-## About Me<br><br>Hi, I’m **Daffa Ravi Ferdiansyah**, an Informatics Student and aspiring Full Stack Developer with a strong interest in web development, artificial intelligence, and modern technology.<br><br>I enjoy building responsive, interactive, and user-friendly digital experiences using technologies such as **React, Next.js, TypeScript, JavaScript, Python, Node.js, and Tailwind CSS**. I’m also exploring **AI, Computer Vision, and Machine Learning** to expand my skills beyond traditional web development.<br><br>I believe that every project is an opportunity to learn something new. I’m constantly improving my programming skills, experimenting with new technologies, and turning ideas into real-world applications.<br><br>**My goal is to become a versatile developer who can combine modern web technologies with AI to build useful, scalable, and innovative solutions.**<br>
+# About Me
+
+Hi, I'm **Daffa Ravi Ferdiansyah**.
+
+I'm an **Informatics Student and Full Stack Developer** passionate about building modern, responsive, and user-friendly web applications. I enjoy working with technologies such as **React, Next.js, TypeScript, JavaScript, Python, Node.js, and Tailwind CSS**.
+
+I'm also interested in **Artificial Intelligence, Machine Learning, and Computer Vision**, and I'm continuously exploring how these technologies can be applied to real-world projects.
+
+I believe that every project is an opportunity to learn, improve, and build something meaningful. I'm constantly developing my skills, experimenting with new technologies, and turning ideas into real applications.
+
+**Currently focused on:**  
+`Full Stack Development` • `AI & Machine Learning` • `Computer Vision` • `Modern Web Development`
 
 
 ## 🌐 Socials:
