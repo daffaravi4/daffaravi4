@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=daffaravi4&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=daffaravi4&color=808080)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=daffaravi4&color=808080)](https://portofolio2-silk.vercel.app)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
