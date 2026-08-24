@@ -12,7 +12,7 @@ I believe that every project is an opportunity to learn, improve, and build some
 `Full Stack Development` • `AI & Machine Learning` • `Computer Vision` • `Modern Web Development`
 
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dappaaarv_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@daffaaarv_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daffaravi4@gmail.com) 
 
 # 💻 Tech Stack:
